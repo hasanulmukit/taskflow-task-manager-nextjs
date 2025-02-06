@@ -1,6 +1,6 @@
-# TaskFlow – Trello Clone Task Manager
+# TaskFlow – Kanban Style Task Manager
 
-TaskFlow is a modern Trello clone built with Next.js (App Router), Tailwind CSS, and dnd kit for drag-and-drop functionality. The application allows you to manage tasks in a Kanban-style board, featuring functionalities such as:
+TaskFlow is a modern task manager built with Next.js (App Router), Tailwind CSS, and dnd kit for drag-and-drop functionality. The application allows you to manage tasks in a Kanban-style board, featuring functionalities such as:
 
 - **Drag-and-Drop**: Reorder tasks within columns and move them between columns with smooth animations.
 - **Dynamic Column Management**: Add, edit, and delete columns.
@@ -22,11 +22,6 @@ TaskFlow is a modern Trello clone built with Next.js (App Router), Tailwind CSS,
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-A live demo of the TaskFlow app is available at:  
-[https://your-demo-url.com](https://your-demo-url.com)  
-_(Replace with your actual demo link if available.)_
 
 ## Features
 
